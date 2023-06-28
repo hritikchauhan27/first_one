@@ -1,1 +1,0 @@
-For appinventiv git tutorials
